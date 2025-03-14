@@ -1,5 +1,6 @@
 body{background-color: silver;  
 }
-.img-for-downloads{
-    size: 100px;
+IMG.downloads{
+    width: 150px;
+    height: 150px;
 }
