@@ -3,6 +3,12 @@ body{background-color: silver;
 .p{
     border: 2px solid #111;
 }
+.scheme{
+    display: flex;
+    margin-left: 150px;
+    width: 1920px;
+    height: 1080px;
+}
 .container{
     display: flex;
     flex-direction: column;
@@ -13,11 +19,6 @@ IMG.downloads{
     border: 2px solid #111;
     width: 150px;
     height: 150px;
-}
-IMG.schemes{
-    width: 800px;
-    height: 500px;
-}
 ul{
     list-style-type: none;
     margin: 0;
